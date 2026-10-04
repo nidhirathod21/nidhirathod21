@@ -1,104 +1,76 @@
 
 
 
-<div align="center">Hi 👋, I'm Nidhi Rathod
+<div align="center">✦ NIDHI RATHOD ✦
 
-A Python Developer | AI/ML Enthusiast | Full-Stack Explorer
+"Python Developer" · "AI/ML Enthusiast" · "Software Developer"
+
+Building ideas into useful, real-world applications.
+
+" LinkedIn " (https://www.linkedin.com/in/rathodnidhi495/) · " GitHub " (https://github.com/nidhirathod21)
 
 </div>---
 
-🚀 About Me
+👩🏻‍💻 About Me
 
-- 🎓 Final-year Computer Science Engineering student passionate about Python, AI/ML and Software Development
-- 💻 Interested in building AI-powered applications and practical web solutions
-- 🌱 Currently exploring Backend Development, AI Integration, Machine Learning and Full-Stack Development
-- 💡 I enjoy turning ideas into working projects and learning by building
-- 🎨 Outside of coding, I enjoy painting, sketching and reading
+I'm a Computer Science Engineering student passionate about Python, Artificial Intelligence and software development.
 
----
+I enjoy building practical applications, experimenting with AI, and learning new technologies by actually using them in projects.
 
-🛠️ Technical Skills
-
-- Languages: Python, C, HTML, CSS
-- AI/ML: Machine Learning, Artificial Intelligence, AI Integration, Pandas
-- Frontend: React.js, HTML, CSS
-- Backend: Django, FastAPI, REST APIs
-- Database: MongoDB
-- Tools: Git, GitHub, VS Code
+- 🔭 Currently working on AI-powered applications
+- 🌱 Learning Backend Development, AI/ML & Full-Stack Development
+- 💡 Interested in Python • AI/ML • Software Development
+- 🎨 Outside tech: Painting • Sketching • Reading
 
 ---
 
-🌟 Featured Projects
+⚡ Tech Stack
 
-🩺 Intelligent Healthcare Assistant
+Languages
 
-An AI-powered healthcare platform designed to provide informational symptom guidance and useful healthcare-management features.
+"Python" "C" "HTML" "CSS"
 
-Features: Symptom Guidance • Health Records • Medication Tracking • Health Vitals • Healthcare Discovery
+AI / ML
 
-Tech: React.js • Python • FastAPI • AI Integration • MongoDB
+"Machine Learning" "Artificial Intelligence" "Pandas" "AI Integration"
 
----
+Development
 
-🤖 Mental Health Chatbot
+"React.js" "Django" "FastAPI" "REST APIs"
 
-A conversational AI application designed to provide mood-based conversations, helpful suggestions and personal-growth guidance.
+Tools & Database
 
-Tech: React.js • Python • Flask • Gemini API • MongoDB
-
----
-
-🚗 Vehicle & Crowd Detection
-
-A computer-vision project focused on detecting vehicles and analyzing crowd density from visual data.
-
-Tech: Python • Computer Vision • AI/ML
+"Git" "GitHub" "VS Code" "MongoDB"
 
 ---
 
-📚 PadhLe — AI Study Assistant
+🚀 Featured Projects
 
-An AI-powered study dashboard designed to make learning more interactive and accessible.
-
-Tech: React.js • AI Integration • Dashboard UI
-
----
-
-💰 Tally — Student Expense Tracker
-
-A student-focused dashboard for tracking, organizing and visualizing personal expenses.
-
-Tech: HTML • CSS • JavaScript • Dashboard UI
+Project| What I Built
+🩺 Intelligent Healthcare Assistant| AI-powered healthcare platform with symptom guidance, medication tracking, health records & healthcare discovery
+🤖 Mental Health Chatbot| Conversational AI application for mood-based support and helpful suggestions
+🚗 Vehicle & Crowd Detection| Computer vision system for vehicle detection and crowd-density analysis
+📚 PadhLe — AI Study Assistant| AI-powered study dashboard for a smarter learning experience
+💰 Tally — Student Expense Tracker| Dashboard for tracking and managing student expenses
 
 ---
 
-🌱 Currently Learning
+🌱 Currently Exploring
 
-- Advanced Python & Backend Development
-- AI/ML & LLM Integration
-- REST API Development
-- Full-Stack Application Development
-- Building practical AI-powered solutions
+"AI/ML" · "LLM Integration" · "FastAPI" · "Django" · "REST APIs" · "Full-Stack Development"
 
 ---
 
-💫 Interests
+💫 Beyond Code
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 💻 Software & Web Development
-- 🎨 Creative Design & Sketching
-- 📚 Learning new technologies
-- 💡 Building projects from ideas
+🎨 Creative: Painting & Sketching
+📚 Curious: Always learning something new
+💡 Mindset: Build → Experiment → Improve
 
 ---
 
-🤝 Connect With Me
+<div align="center">"code • create • learn • grow"
 
-- 💼 LinkedIn: "Nidhi Rathod" (https://www.linkedin.com/in/rathodnidhi495/)
-- 💻 GitHub: "nidhirathod21" (https://github.com/nidhirathod21)
-
----
-
-<div align="center">✦ Learn • Build • Experiment • Grow ✦
+Thanks for visiting my profile ✨
 
 </div>
