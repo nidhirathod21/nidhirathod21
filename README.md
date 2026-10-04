@@ -1,167 +1,69 @@
-# Project Name
+Hey, I'm Nidhi 👋🏻
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/project-name)
-![GitHub stars](https://img.shields.io/github/stars/your-username/project-name?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/project-name?style=social)
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+"CSE Student" • "Python Developer" • "AI/ML Enthusiast"
 
-A short and clear description of your Python project. Explain what the project does, why it was created, and who can use it.
+I’m a Computer Science student who loves turning ideas into real-world applications.
+Currently exploring AI/ML, Python, full-stack development and AI-powered solutions.
 
----
-
-## Features
-
-* Fast and lightweight
-* Easy to use
-* Modular Python structure
-* Beginner-friendly setup
-* Open-source and customizable
+«building things, learning things, breaking things — then fixing them.»
 
 ---
 
-## Technologies Used
+🚀 What I'm Building
 
-* Python 3.x
-* pip
-* Virtual Environment (venv)
-* Git & GitHub
+🩺 Intelligent Healthcare Assistant
+AI-powered healthcare platform with symptom guidance, health records, medication tracking and healthcare discovery.
 
----
+🤖 Mental Health Chatbot
+A conversational AI assistant focused on mood-based support, personal growth and helpful suggestions.
 
-## Project Structure
+🚗 Vehicle & Crowd Detection
+Computer vision project for detecting vehicles and analyzing crowd density.
 
-```bash
-project-name/
-│
-├── main.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── src/
-│   └── modules.py
-└── assets/
-```
+📚 PadhLe — AI Study Assistant
+An AI-powered study dashboard designed to make learning more interactive and accessible.
+
+💰 Tally — Student Expense Tracker
+A simple dashboard for tracking and managing student expenses.
 
 ---
 
-## Installation
+🛠️ Tech Stack
 
-Clone the repository:
+Languages
+"Python" "C" "HTML" "CSS"
 
-```bash
-git clone https://github.com/your-username/project-name.git
-```
+AI / ML
+"Machine Learning" "Artificial Intelligence" "AI Integration"
 
-Move into the project folder:
+Web Development
+"React.js" "Django" "FastAPI" "REST APIs"
 
-```bash
-cd project-name
-```
-
-Create a virtual environment:
-
-```bash
-python -m venv venv
-```
-
-Activate the virtual environment:
-
-### Windows
-
-```bash
-venv\Scripts\activate
-```
-
-### Linux / macOS
-
-```bash
-source venv/bin/activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
+Tools & Technologies
+"Git" "GitHub" "VS Code" "MongoDB" "Pandas"
 
 ---
 
-## Usage
+🌱 Currently Learning
 
-Run the project using:
-
-```bash
-python main.py
-```
-
-Example:
-
-```bash
-python app.py
-```
+- Advanced Python & backend development
+- AI/ML and LLM integration
+- Full-stack development
+- Building scalable real-world applications
 
 ---
 
-## Requirements
+📊 GitHub Stats
 
-Example dependencies:
+<!-- Add GitHub stats here -->---
 
-```txt
-numpy
-pandas
-requests
-flask
-```
+🤝 Let's Connect
 
-Save dependencies:
-
-```bash
-pip freeze > requirements.txt
-```
+💼 LinkedIn: "linkedin.com/in/rathodnidhi495" (https://www.linkedin.com/in/rathodnidhi495/)
+💻 GitHub: "github.com/nidhirathod21" (https://github.com/nidhirathod21)
 
 ---
 
-## Screenshots
+"code • create • learn • repeat" ⚡
 
-Add screenshots or output images here.
 
-```md
-![Project Screenshot](assets/screenshot.png)
-```
-
----
-
-## Contributing
-
-Contributions are welcome.
-
-Steps to contribute:
-
-1. Fork the repository
-2. Create a new branch
-3. Make changes
-4. Commit changes
-5. Push to GitHub
-6. Create a Pull Request
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Author
-
-**Your Name**
-
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* Email: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-## Support
-
-If you like this project, give it a ⭐ on GitHub.
